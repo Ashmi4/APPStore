@@ -1,0 +1,151 @@
+[30-Nov-2016 11:27:01 UTC] PHP Fatal error:  Call to undefined method CI_Loader::getSkinUrl() in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/Home.php on line 311
+[05-Dec-2016 05:21:41 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/App.php on line 7
+[05-Dec-2016 05:23:20 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/App.php on line 7
+[05-Dec-2016 05:23:20 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/App.php on line 7
+[05-Dec-2016 05:24:23 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/App.php on line 7
+[05-Dec-2016 05:25:05 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/App.php on line 7
+[05-Dec-2016 05:25:58 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/App.php on line 7
+[05-Dec-2016 05:27:07 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/App.php on line 7
+[05-Dec-2016 05:29:30 UTC] PHP Fatal error:  Call to a member function from() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/Home.php on line 7
+[05-Dec-2016 05:30:37 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/controllers/StarAdmin.php on line 37
+[05-Dec-2016 09:54:52 UTC] PHP Fatal error:  Call to undefined function base_urll() in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/Home.php on line 286
+[05-Dec-2016 10:13:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/Home.php on line 36
+[05-Dec-2016 11:00:57 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/superhdtv/public_html/final_it_app/it_app_store/application/models/Home.php on line 36
+[05-Dec-2016 12:59:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/apps.php on line 1280
+[05-Dec-2016 13:19:22 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/Home.php on line 180
+[06-Dec-2016 04:26:32 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/Home.php on line 200
+[06-Dec-2016 04:26:49 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/Home.php on line 200
+[06-Dec-2016 04:58:14 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/Home.php on line 179
+[06-Dec-2016 07:40:19 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/apps.php on line 223
+[06-Dec-2016 09:15:14 UTC] PHP Fatal error:  Call to a member function preview() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/controllers/StarAdmin.php on line 53
+[06-Dec-2016 09:15:18 UTC] PHP Fatal error:  Call to a member function preview() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/controllers/StarAdmin.php on line 53
+[06-Dec-2016 09:17:56 UTC] PHP Fatal error:  Call to a member function preview() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/controllers/StarAdmin.php on line 53
+[06-Dec-2016 09:18:27 UTC] PHP Fatal error:  Call to a member function preview() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/controllers/StarAdmin.php on line 53
+[06-Dec-2016 09:19:01 UTC] PHP Fatal error:  Call to a member function preview() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/controllers/StarAdmin.php on line 53
+[06-Dec-2016 09:39:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 1016
+[06-Dec-2016 09:40:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 1018
+[06-Dec-2016 10:05:59 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 649
+[06-Dec-2016 10:07:28 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 649
+[06-Dec-2016 10:08:48 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 649
+[06-Dec-2016 10:08:49 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 649
+[06-Dec-2016 10:10:08 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 649
+[06-Dec-2016 10:10:11 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 649
+[07-Dec-2016 11:52:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 812
+[07-Dec-2016 11:53:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 812
+[07-Dec-2016 11:53:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 812
+[07-Dec-2016 11:53:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 812
+[07-Dec-2016 11:53:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 812
+[07-Dec-2016 11:54:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 812
+[07-Dec-2016 11:54:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 812
+[07-Dec-2016 11:54:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 812
+[07-Dec-2016 12:12:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:17:27 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:17:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:17:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:17:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:17:53 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:17:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:17:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:17:56 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:17:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 821
+[07-Dec-2016 12:20:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:36 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[07-Dec-2016 12:20:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 807
+[09-Dec-2016 05:09:01 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/apps.php on line 142
+[09-Dec-2016 05:09:06 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/apps.php on line 142
+[09-Dec-2016 05:11:34 UTC] PHP Fatal error:  Call to undefined function form_open_multipart() in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/register.php on line 166
+[09-Dec-2016 05:11:41 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/apps.php on line 141
+[09-Dec-2016 05:11:45 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/apps.php on line 141
+[09-Dec-2016 05:12:52 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/apps.php on line 142
+[09-Dec-2016 05:13:00 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/apps.php on line 142
+[09-Dec-2016 05:14:22 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/apps.php on line 142
+[09-Dec-2016 06:35:47 UTC] PHP Fatal error:  Cannot redeclare StarAdmin::login() in /home/superhdtv/public_html/final_it_app/it_app_store/application/controllers/StarAdmin.php on line 19
+[09-Dec-2016 06:38:51 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/login.php on line 112
+[09-Dec-2016 06:41:02 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/login.php on line 112
+[09-Dec-2016 06:41:08 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/login.php on line 112
+[09-Dec-2016 06:42:08 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/login.php on line 112
+[09-Dec-2016 06:44:51 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/login.php on line 112
+[09-Dec-2016 06:47:06 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/login.php on line 112
+[09-Dec-2016 07:00:31 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/login.php on line 129
+[14-Dec-2016 12:53:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 663
+[14-Dec-2016 12:55:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 1004
+[14-Dec-2016 12:56:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/superhdtv/public_html/final_it_app/it_app_store/application/views/Admin/preview.php on line 1004
+[26-Dec-2016 07:28:07 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/itweb/it_app_store/application/views/Admin/favourite.php on line 193
+[26-Dec-2016 09:04:59 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/itweb/it_app_store/application/views/Admin/favourite.php on line 193
+[26-Dec-2016 09:06:50 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/itweb/it_app_store/application/views/Admin/favourite.php on line 193
+[26-Dec-2016 09:09:58 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/itweb/it_app_store/application/views/Admin/favourite.php on line 193
+[26-Dec-2016 09:11:49 UTC] PHP Fatal error:  Call to undefined method Home::favourite() in /home/superhdtv/public_html/itweb/it_app_store/application/controllers/StarAdmin.php on line 298
+[26-Dec-2016 09:17:38 UTC] PHP Fatal error:  Call to undefined method Home::favourite() in /home/superhdtv/public_html/itweb/it_app_store/application/controllers/StarAdmin.php on line 298
+[26-Dec-2016 09:54:24 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/itweb/it_app_store/application/views/Admin/cat_app.php on line 173
+[28-Dec-2016 12:59:06 UTC] PHP Fatal error:  Call to a member function Result() on a non-object in /home/superhdtv/public_html/itweb/it_app_store/application/views/Admin/cat_app.php on line 1
+[13-Jan-2017 05:07:54 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/favourite.php on line 193
+[13-Jan-2017 07:27:24 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/preview.php on line 1064
+[14-Jan-2017 05:35:59 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/Home.php on line 337
+[16-Jan-2017 04:12:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/Home.php on line 520
+[16-Jan-2017 04:13:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/Home.php on line 351
+[16-Jan-2017 04:13:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/Home.php on line 351
+[16-Jan-2017 04:13:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/Home.php on line 351
+[16-Jan-2017 04:13:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/Home.php on line 351
+[16-Jan-2017 06:23:23 UTC] PHP Parse error:  syntax error, unexpected 'unlink' (T_STRING) in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/models/Home.php on line 320
+[16-Jan-2017 06:23:50 UTC] PHP Parse error:  syntax error, unexpected 'unlink' (T_STRING) in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/models/Home.php on line 320
+[16-Jan-2017 06:23:51 UTC] PHP Parse error:  syntax error, unexpected 'unlink' (T_STRING) in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/models/Home.php on line 320
+[16-Jan-2017 06:23:53 UTC] PHP Parse error:  syntax error, unexpected 'unlink' (T_STRING) in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/models/Home.php on line 320
+[16-Jan-2017 10:08:02 UTC] PHP Fatal error:  Cannot access empty property in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/Home.php on line 266
+[16-Jan-2017 10:51:31 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apps.php on line 256
+[16-Jan-2017 11:26:49 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/top_down.php on line 238
+[16-Jan-2017 11:35:11 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/cat_app.php on line 99
+[16-Jan-2017 14:05:31 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/top_favourite.php on line 239
+[17-Jan-2017 04:30:00 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/downloaded_user.php on line 193
+[17-Jan-2017 04:32:22 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/downloaded_user.php on line 193
+[17-Jan-2017 06:06:36 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/downloaded_user.php on line 193
+[17-Jan-2017 06:06:49 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/cat_app.php on line 99
+[17-Jan-2017 06:16:46 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/top_down.php on line 238
+[17-Jan-2017 06:17:27 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/new_releses.php on line 239
+[17-Jan-2017 06:17:53 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/new_releses.php on line 239
+[17-Jan-2017 06:20:54 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/downloaded_user.php on line 193
+[17-Jan-2017 06:35:31 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apps.php on line 256
+[18-Jan-2017 08:38:36 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/models/Home.php on line 325
+[19-Jan-2017 04:29:55 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/search.php on line 185
+[19-Jan-2017 04:34:02 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/search.php on line 289
+[19-Jan-2017 04:34:51 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/search.php on line 289
+[23-Jan-2017 05:02:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/controllers/StarAdmin.php on line 80
+[24-Jan-2017 05:29:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/preview.php on line 1264
+[25-Jan-2017 04:48:58 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk.php on line 750
+[25-Jan-2017 04:50:18 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk.php on line 750
+[25-Jan-2017 04:52:23 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk.php on line 750
+[25-Jan-2017 04:52:51 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk.php on line 750
+[25-Jan-2017 04:53:35 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk.php on line 750
+[25-Jan-2017 07:31:56 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk_how_install.php on line 731
+[25-Jan-2017 07:38:54 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk_how_install.php on line 731
+[25-Jan-2017 08:32:41 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk_how_install.php on line 600
+[25-Jan-2017 08:40:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk_how_install.php on line 838
+[25-Jan-2017 08:41:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk_how_install.php on line 838
+[25-Jan-2017 08:48:44 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/apk_how_install.php on line 778
+[26-Jan-2017 05:50:22 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/models/Home.php on line 444
+[26-Jan-2017 05:52:03 UTC] PHP Parse error:  syntax error, unexpected '3' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/models/Home.php on line 445
+[26-Jan-2017 06:34:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/models/Home.php on line 452
+[26-Jan-2017 08:40:30 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/Home.php on line 541
+[26-Jan-2017 08:47:13 UTC] PHP Fatal error:  Call to a member function Result() on null in /home/superhdtv/public_html/itweb_updated/itweb/it_app_store/application/views/Admin/Home.php on line 541
+[31-Jan-2017 07:35:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/touchitappstore/public_html/application/config/routes.php on line 59
+[31-Jan-2017 17:32:26 UTC] PHP Fatal error:  Function name must be a string in /home/touchitappstore/public_html/application/views/Admin/myaccount_edit_form.php on line 222
+[01-Feb-2017 05:01:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/touchitappstore/public_html/application/config/routes.php on line 72
+[01-Feb-2017 05:01:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/touchitappstore/public_html/application/config/routes.php on line 72
+[01-Feb-2017 05:24:08 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/touchitappstore/public_html/application/views/Admin/Home.php on line 333
+[01-Feb-2017 05:24:09 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/touchitappstore/public_html/application/views/Admin/Home.php on line 333
+[01-Feb-2017 08:39:00 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/touchitappstore/public_html/application/views/Admin/Home.php on line 333
+[01-Feb-2017 08:45:44 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/touchitappstore/public_html/application/views/Admin/Home.php on line 333
+[01-Feb-2017 08:45:48 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/touchitappstore/public_html/application/views/Admin/Home.php on line 333
+[01-Feb-2017 08:49:24 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/touchitappstore/public_html/application/views/Admin/Home.php on line 333
+[01-Feb-2017 08:49:38 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/touchitappstore/public_html/application/views/Admin/Home.php on line 333
+[02-Feb-2017 06:39:32 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/touchitappstore/public_html/application/models/Home.php on line 572
+[06-Feb-2017 08:48:50 UTC] PHP Parse error:  syntax error, unexpected '"App"' (T_CONSTANT_ENCAPSED_STRING) in /home/touchitappstore/public_html/application/controllers/StarAdmin.php on line 337
+[06-Feb-2017 08:58:56 UTC] PHP Parse error:  syntax error, unexpected '"App/"' (T_CONSTANT_ENCAPSED_STRING) in /home/touchitappstore/public_html/application/controllers/StarAdmin.php on line 337
+[06-Feb-2017 08:59:30 UTC] PHP Parse error:  syntax error, unexpected '"App"' (T_CONSTANT_ENCAPSED_STRING) in /home/touchitappstore/public_html/application/controllers/StarAdmin.php on line 337
